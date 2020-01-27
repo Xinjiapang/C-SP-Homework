@@ -1,0 +1,29 @@
+Project 1: Spirobot ---https://www.youtube.com/watch?v=pe71pKhP9ME  [03:11- 03:42]
+  Input(Data): 
+    - The angle of stepper motors to move the pen
+    - Length of horizontal movement
+    - The pattern that will be drawed
+    - The angle of moving flat surface
+  Render:
+    - Movement of the pen
+    - Movement of flat surface
+    - Patter that has been drawed
+  Simulation:
+    - N/A
+  Event:
+    - On/ Off switch
+
+Project 2: Music Reactive LED Cube ---https://www.youtube.com/watch?v=aFKShpv_HDY  
+  Input(Data): 
+    - RGB of LED
+    - Sound quality average
+    - Changes in beats
+    - Frequency of LED
+  Render:
+    - LED Color
+    - Sound
+    - LED on/off
+  Simulation:
+    - N/A
+  Event:
+    - Turn on music by using mobile
