@@ -5,8 +5,8 @@
 
 The computational projection shows a changing animation created over a rigid grid of squares that can only be scaled down and rotated. The grid of squares will be changing based on to the vocal/beats of the music. 
 
-| Input(Data)       | Render             | Simulation  | Event  |
-|-----------------|------------------|-------|-----|
+|Input(Data)| Render|Simulation|Event|
+|------------|------------|------------|------------|
 | Darkness          | color              | square changing size to simulate the frequency/beats/vocal of the music | The dark the external light source, the higher the LED brightness |
 | Music frequency   | size               |         |       |
 | LED screen        | Rotation angle     |         |       |
