@@ -18,9 +18,9 @@ Grid              |                    |         |
 
 Each plastic bag is installed on the wall and is automatically inflated and deflated. But when a viewer comes close it instantly reacts by drawing back and tentatively following the movements of the observer. As long as he remains in a certain area in front of the installation it dynamically reacts to the viewer's motion. 
 
-| Input(Data)       | Render   | Simulation  | Event  |
-| ----------------- |:--------:| -------:| -----:|
-| cooling fans      | Fullness of the plastic bags  | the inflated and deflated to simulate the movement | Movements of the observer |
+| Input(Data)       |Render   |Simulation  | Event  |
+| ----------------- |--------| -------| -----|
+| cooling fans      |Fullness of the plastic bags  |the inflated and deflated to simulate the movement |Movements of the observer |
 | Air volume        |          
 | time              |          
 | Motion Controller |          
