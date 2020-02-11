@@ -8,10 +8,12 @@ A Bricks Ball game which projector on a store window and controlled based on use
 Input(Data)| Render|Simulation|Event
 ------------|------------|------------|------------
 x,y, size for the ball   | draw rebound board | move ball | body movement 
-x,y, sizefor the rebound board | draw ball    | rebound ball |       
-blocks x,y, size        | draw blocks   |         |       
-blocks color   | background color   |         |       
+x,y, sizefor the rebound board | draw ball    | bounce ball on top/bottom walls |       
+blocks x,y, size        | draw blocks   | bounce ball on blocks       |       
+blocks color   | draw spark   | bounce rebound board  |       
 rebound board color  |                    |         |      
 screen size  |                    |         |     
 background color  |                    |         |    
-pose x,y |                    |         |  
+pose x,y |                    |         | 
+spark x,y,size |                    |         |  
+spark color |                    |         |  
